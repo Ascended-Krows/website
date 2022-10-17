@@ -1,0 +1,13 @@
+.serverless
+coverage
+node_modules
+docker
+docker-compose.yml
+*.log
+.DS_Store
+.cache
+.idea
+.env
+.dynamodb
+.build
+/src/test/.env.test
