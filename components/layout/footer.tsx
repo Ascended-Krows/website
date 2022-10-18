@@ -12,11 +12,7 @@ const footer = () => {
               {/* <!-- Logo --> */}
               <Link href="#">
                 <a className="mb-6 inline-block">
-                  <img
-                    src="/images/logo.png"
-                    className="max-h-7 dark:hidden mb-6"
-                    alt="Ascended Krows Marketplace"
-                  />
+                  <img src="/images/logo.png" className="max-h-7 dark:hidden mb-6" alt="Ascended Krows Marketplace" />
                 </a>
               </Link>
 
